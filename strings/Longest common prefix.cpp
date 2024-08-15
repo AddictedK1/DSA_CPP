@@ -1,5 +1,5 @@
 // leetcode----->  https://leetcode.com/problems/longest-common-prefix/
-
+// Beats 100%
 
 class Solution {
 public:
